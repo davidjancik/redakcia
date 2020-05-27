@@ -2,9 +2,9 @@ Autor: Dávid Jančík
 Nazov: Zlepsime kvalitu ovzdusia
 Datum: 26.5.2020
 ----
-Tento clanok je skuska.
-Nema hlavu ani pätu.
-Budem sa snazit to zlepsit.
+Tento clanocek je skusecka.
+Nema hlavicku ani päticku.
+Budem sa snazit to zlepsit trosku.
 ----
 V noci spadlo lietadlo.
 Sest ludi sa zranilo.
